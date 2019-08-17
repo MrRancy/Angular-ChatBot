@@ -1,0 +1,69 @@
+
+.message {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 15px;
+  margin-top: 5px;
+  position: relative;
+  font-weight: bold;
+}
+
+.message.to {
+  background-color: #d7f1c1;
+  color: black;
+  margin-left: 40%;
+  text-align: right;
+}
+
+.message.from {
+  background-color: white;
+  color: black;
+  margin-right: 40%;
+}
+
+.name-caption {
+  color: #000000;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 10px;
+}
+
+.top-bar-class {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #065f4e;
+  width: 400px;
+  height: 50px;
+}
+
+.new-container-class {
+  overflow-x: hidden;
+  overflow-y: visible;
+  height: 587px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("../../../assets/Background.max-2800x2800.jpg");
+  background-size: 600px;
+  width: 400px;
+}
+
+.search-send-container{
+  margin-left: auto;
+  margin-right: auto;
+  /* background-color: #065f4e; */
+  width: 400px;
+  /* height: 50px; */
+}
+
+.user-name {
+  color: white;
+  margin-left: 40px;
+  padding-top: 10px;
+}
+
+.search-akira {
+  /* position: fixed; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* left: 0; */
+  /* bottom: 0; */
+}
